@@ -33,7 +33,7 @@
 }
 
 .card {
-    width: 90vw;
+    width: 40vw;
     background: var(--card-bg-col);
     border-radius: 7px;
     display: flex;
